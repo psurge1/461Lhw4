@@ -1,0 +1,23 @@
+.nice-title {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+#second-paragraph {
+    font-weight: bold;
+}
+
+div {
+    display:inline-block;
+}
+
+a.chess-link {
+    color:black;
+}
+
+a.chess-link:hover {
+    color:blueviolet;
+}
