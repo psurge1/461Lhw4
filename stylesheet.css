@@ -1,17 +1,26 @@
-.nice-title {
+.red-text {
     color: red;
+}
+
+h1 {
+    margin: 1%;
+    padding: 5%;
 }
 
 p {
     color: blue;
 }
 
-#second-paragraph {
-    font-weight: bold;
+div.first {
+    background-color: coral;
 }
 
-div {
-    display:inline-block;
+div.second {
+    background-color: lightblue;
+}
+
+#second-paragraph {
+    font-weight: bold;
 }
 
 a.chess-link {
